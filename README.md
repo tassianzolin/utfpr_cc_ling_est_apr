@@ -1,6 +1,6 @@
 ## UTFPR - Computer Science
 
-O objetivo desse repositório é arquivar minhas atividades, resumos e conteúdos das principais matérias do curso de Ciência da Computação da UTFPR.
+O objetivo desse repositório é arquivar atividades, resumos e conteúdos das principais matérias do curso de Ciência da Computação da UTFPR.
 
 Período | Matéria | Principais conteúdos
 ------------ | ------------- | -------------
