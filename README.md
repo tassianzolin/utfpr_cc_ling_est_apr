@@ -7,3 +7,5 @@ Período | Matéria | Principais conteúdos
 1º Período | Lógica Matemática | Tabela verdade
 3º Período | Linguagem de Estruturação e Apresentação de Conteúdos | HTML, CSS, JavaScript
 4º Período | Engenharia de Requisitos | UML
+
+[Grade curricular](http://www.utfpr.edu.br/cursos/graduacao/bacharelado/ciencia-da-computacao)
