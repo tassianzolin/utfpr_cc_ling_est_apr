@@ -15,7 +15,7 @@ Período | Matéria | Principais conteúdos | Referências
 ## Matérias base
 
 Período | Matéria | Principais conteúdos | Referências
------------- | ------------- | -------------
+------------ | ------------- | ------------- | -------------
 1º Período | Geometria Analítica e Álgebra Linear | Matrizes, determinantes, vetores, espaços vetoriais, sistemas lineares, etc. |
 
 [Link da grade curricular](http://www.utfpr.edu.br/cursos/graduacao/bacharelado/ciencia-da-computacao)
