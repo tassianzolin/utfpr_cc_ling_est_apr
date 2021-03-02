@@ -14,4 +14,4 @@ Período | Matéria | Principais conteúdos
 
 Período | Matéria | Principais conteúdos 
 ------------ | ------------- | ------------- 
-1º Período | Geometria Analítica e Álgebra Linear | Matrizes, determinantes, vetores, espaços vetoriais, sistemas lineares, etc. 
+1º Período | Geometria Analítica e Álgebra Linear | Matrizes, determinantes, vetores, etc. 
