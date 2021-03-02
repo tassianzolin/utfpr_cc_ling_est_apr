@@ -4,14 +4,14 @@ O objetivo desse repositório é arquivar atividades, resumos e conteúdos das p
 
 ### Matérias específicas
 
-Período | Matéria | Principais conteúdos | Bibliografia
------------- | ------------- | ------------- | -------------
-1º Período | Lógica Matemática | 
-3º Período | Linguagem de Estruturação e Apresentação de Conteúdos | HTML, CSS, JavaScript |
-4º Período | Engenharia de Requisitos | UML | 
+Período | Matéria | Principais conteúdos 
+------------ | ------------- | -------------
+1º Período | Lógica Matemática 
+3º Período | Linguagem de Estruturação e Apresentação de Conteúdos | HTML, CSS, JavaScript 
+4º Período | Engenharia de Requisitos | UML 
 
 ### Outras matérias
 
-Período | Matéria | Principais conteúdos | Bibliografia
------------- | ------------- | ------------- | -------------
-1º Período | Geometria Analítica e Álgebra Linear | Matrizes, determinantes, vetores, espaços vetoriais, sistemas lineares, etc. |
+Período | Matéria | Principais conteúdos 
+------------ | ------------- | ------------- 
+1º Período | Geometria Analítica e Álgebra Linear | Matrizes, determinantes, vetores, espaços vetoriais, sistemas lineares, etc. 
